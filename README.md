@@ -5,5 +5,7 @@ Created a simple random color generator that random generates a color based on R
 ## 💻 Built With
 
 ➡ HTML
+
 ➡ CSS
+
 ➡ JavaScript
