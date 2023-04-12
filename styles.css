@@ -1,0 +1,25 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.text-wrapper {
+    display: flex;
+    flex-flow: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.6rem;
+}
+
+.button-container {  
+    font-size: 22px;
+    border-radius: 1rem;
+    padding: 1rem;
+}
+
+.button-container:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+    background-color: black;
+    color: white;
+}
